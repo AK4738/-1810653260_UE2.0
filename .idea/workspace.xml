@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e4fee0-f70a-4a23-b89d-19ff5dab7e37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe5_1810653260.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ 1810653260_UE2/Aufgabe4_1810653260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ 1810653260_UE2/Aufgabe4_1810653260.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aufgabe4_1810653260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe4_1810653260.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,29 +18,31 @@
     <session id="1078519664">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2053" />
+          <entry key="java" value="2904" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2053" />
+          <entry key="JAVA" value="2904" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -48,17 +52,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe2_1810653260.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653260.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653260.java">
+        <entry file="file://$PROJECT_DIR$/src/Aufgabe5_1810653260.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="113">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -82,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/Aufgabe2_1810653260.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe3_1810653260.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe4_1810653260.java" />
+        <option value="$PROJECT_DIR$/src/Aufgabe5_1810653260.java" />
       </list>
     </option>
   </component>
@@ -92,9 +106,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -102,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,13 +132,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543068885149" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543236569838" />
     <property name="last_opened_file_path" value="$USER_HOME$/1810653260_Aufgaben_Serie1" />
   </component>
   <component name="RunDashboard">
@@ -140,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe4_1810653260">
+  <component name="RunManager" selected="Application.Aufgabe5_1810653260">
     <configuration name="Aufgabe2_1810653260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe2_1810653260" />
       <module name=" 1810653260_UE2" />
@@ -162,6 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aufgabe5_1810653260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe5_1810653260" />
+      <module name=" 1810653260_UE2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name=" 1810653260_UE2" />
@@ -177,12 +198,14 @@
       <item itemvalue="Application.Aufgabe2_1810653260" />
       <item itemvalue="Application.Aufgabe3_1810653260" />
       <item itemvalue="Application.Aufgabe4_1810653260" />
+      <item itemvalue="Application.Aufgabe5_1810653260" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufgabe5_1810653260" />
+        <item itemvalue="Application.Aufgabe2_1810653260" />
         <item itemvalue="Application.Aufgabe4_1810653260" />
         <item itemvalue="Application.Aufgabe3_1810653260" />
-        <item itemvalue="Application.Aufgabe2_1810653260" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -198,12 +221,13 @@
       <option name="presentableId" value="Default" />
       <updated>1542993933534</updated>
       <workItem from="1542993937871" duration="8635000" />
-      <workItem from="1543067503932" duration="1297000" />
+      <workItem from="1543067503932" duration="4204000" />
+      <workItem from="1543235699626" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9932000" />
+    <option name="totallyTimeSpent" value="13792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -215,10 +239,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27700832" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,7 +251,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,7 +260,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295129" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295129" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32855093" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -258,8 +282,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Aufgabe4_1810653260.java</url>
-          <line>4</line>
+          <url>file://$PROJECT_DIR$/src/Aufgabe5_1810653260.java</url>
+          <line>9</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -275,24 +299,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aufgabe3_1810653260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe3_1810653260.java" />
     <entry file="file://$PROJECT_DIR$/src/Aufgabe2_1810653260.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653260.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe5_1810653260.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
