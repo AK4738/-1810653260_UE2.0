@@ -6,13 +6,15 @@ public class Aufgabe4_1810653260 {
             System.out.println("Der Schleifenzähler ist: " + i);
 
         int f =0;
-        while (f < 10){//wenn man eine Variable hat wo die bedingung erfüllt werden muss
+        while (f < 10){//while-Schleifen wiederholen Anweisungen, solange die Bedingung true liefert.
+                        // Wenn die Bedingung bei der ersten Abfrage nicht true liefert, wird die while-Schleife gar nicht erst ausgeführt.
             f++;
             System.out.println("Der Schleifenzähler ist: " + f);
         }
 
         int a=0;
-        do {// führt etwas so weit aus bis die abbruchbedingung erfüllt ist
+        do {// Die Anweisungen werden einmal durchgeführt, bevor die Bedingung geprüft wird.
+            // Wenn die Bedingung true liefert, werden die Anweisungen erneut ausgeführt.
             a++;
             System.out.println("Der Schleifenzähler ist: " + a);
         }

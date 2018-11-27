@@ -25,7 +25,7 @@ public class Aufgabe2_1810653260 {
         }
 
         if (zahl1==zahl2){
-            JOptionPane.showMessageDialog(null, "Die zahlen sind" + zahl1 + "\nDurchgang:" + durch);
+            System.out.println("Die zahlen sind" + zahl1 + "\nDurchgänge:" + durch);
 
         }
 
